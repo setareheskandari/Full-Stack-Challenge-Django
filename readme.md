@@ -56,5 +56,5 @@ The webapp should now be running at http://localhost:5173 .
 ![In action](client/src/assets/demo.gif)
 -
 > **Note**: Even though Django is installed in your Pipenv venv, VS Code may not pick it up until you point the editor at that interpreter:
-- Open the Command Palette (⇧⌘P on Mac) and type “Python: Select Interpreter” and hit Enter.
-- Look for the entry that lives under your Pipenv venv path and Select it. 
+> - Open the Command Palette (⇧⌘P on Mac) and type “Python: Select Interpreter” and hit Enter.
+> - Look for the entry that lives under your Pipenv venv path and Select it. 
